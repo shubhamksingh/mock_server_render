@@ -11,5 +11,22 @@
       "name" : "Troy",
       "Author" : "k"
     }
+  ],
+  "posts":[
+    {
+      "id": 1,
+      "userId": 1,
+      "tweet" : "hello World!!",
+      "gif" : "https://i.giphy.com/media/QTrG6mjkHEkpFR3DqX/200.gif"
+    }
+    ],
+  "user" :[
+    {
+      "id": 1,
+      "avatar": "https://i.pravatar.cc/200",
+      "username": "giga",
+      "fullname" : "shubham singh",
+      "password" ": "1234"
+    }
   ]
 }
